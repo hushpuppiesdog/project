@@ -1,8 +1,13 @@
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
 
+* {
+    text-decoration: none;
+}
+
 body {
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 a {
@@ -97,3 +102,7 @@ a {
     }
 }
 
+.index {
+    margin-left: 30%;
+    
+}
